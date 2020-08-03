@@ -1,0 +1,3 @@
+[submodule "9port"]
+	path = 9port
+	url = https://github.com/9fans/plan9port.git
